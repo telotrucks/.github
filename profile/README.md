@@ -1,5 +1,5 @@
 <div className="flex">
-  <img src="./images/logo-telo.png" alt="TELO Trucks Logo" width="150" />
+  <img src="../images/logo-telo.png" alt="TELO Trucks Logo" width="150" />
 </div>
 
 # TELO There!
